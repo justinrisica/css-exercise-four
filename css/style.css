@@ -36,19 +36,19 @@ h1 {
 }
 
 .baku {
-  background-image: url(/images/baku.jpg);
+  background-image: url(../images/baku.jpg);
 }
 
 .london {
-  background-image: url(/images/london.png);
+  background-image: url(../images/london.png);
 }
 
 .madrid {
-  background-image: url(/images/madrid.jpg);
+  background-image: url(../images/madrid.jpg);
 }
 
 .rome {
-  background-image: url(/images/rome.jpg);
+  background-image: url(../images/rome.jpg);
 }
 
 @media screen and (min-width:575px) {
@@ -61,6 +61,7 @@ h1 {
     width: 48%;
     height: 200px;
 }
+}
 
 @media screen and (min-width: 991px) {
   .container {
@@ -72,3 +73,4 @@ h1 {
     width: 23%;
     height: 200px;
   }
+}
